@@ -1,62 +1,230 @@
 {
-  "blue": {
-    "500": {
+  "neutral": {
+    "0": {
       "$type": "color",
-      "$value": "#2563EB",
-      "$description": "Primary brand blue, base tone.",
+      "$value": "#FFFFFF",
+      "$description": "Primitive palette color (from Atlassian ADS dummy import).",
       "$extensions": {
         "canonical": {
-          "id": "01J8X4K9F3ZQ5R7T2N6M0V8B1C",
+          "id": "0116FE1F597B70068FD3D2458D",
           "tier": "primitive",
           "figmaVariableId": null
         }
       }
     },
-    "700": {
+    "10": {
       "$type": "color",
-      "$value": "#1D4ED8",
-      "$description": "Primary brand blue, darker tone.",
+      "$value": "#FCFCFC",
+      "$description": "Primitive palette color (from Atlassian ADS dummy import).",
       "$extensions": {
         "canonical": {
-          "id": "01J8X4K9F3ZQ5R7T2N6M0V8B2D",
+          "id": "018DB0EFE768A3F0A5ED9A5913",
+          "tier": "primitive",
+          "figmaVariableId": null
+        }
+      }
+    },
+    "50": {
+      "$type": "color",
+      "$value": "#F0F1F2",
+      "$description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "$extensions": {
+        "canonical": {
+          "id": "011D513E4E096AF211BC2BE4A2",
+          "tier": "primitive",
+          "figmaVariableId": null
+        }
+      }
+    },
+    "130": {
+      "$type": "color",
+      "$value": "#DDDEDD",
+      "$description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "$extensions": {
+        "canonical": {
+          "id": "01E806BDC340B2D9DDB78F2A4B",
+          "tier": "primitive",
+          "figmaVariableId": null
+        }
+      }
+    },
+    "180": {
+      "$type": "color",
+      "$value": "#CECFD2",
+      "$description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "$extensions": {
+        "canonical": {
+          "id": "0126BE4190A8B2C6D2668CA746",
+          "tier": "primitive",
+          "figmaVariableId": null
+        }
+      }
+    },
+    "270": {
+      "$type": "color",
+      "$value": "#B7B9BF",
+      "$description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "$extensions": {
+        "canonical": {
+          "id": "01E30371192B9117A1399F8209",
+          "tier": "primitive",
+          "figmaVariableId": null
+        }
+      }
+    },
+    "480": {
+      "$type": "color",
+      "$value": "#7D818A",
+      "$description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "$extensions": {
+        "canonical": {
+          "id": "0127F6F043A15B2F65671E8B90",
+          "tier": "primitive",
+          "figmaVariableId": null
+        }
+      }
+    },
+    "560": {
+      "$type": "color",
+      "$value": "#6B6E76",
+      "$description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "$extensions": {
+        "canonical": {
+          "id": "01B6786FF81712BF2255839249",
+          "tier": "primitive",
+          "figmaVariableId": null
+        }
+      }
+    },
+    "670": {
+      "$type": "color",
+      "$value": "#505258",
+      "$description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "$extensions": {
+        "canonical": {
+          "id": "0154FC0F5EE841305DCD859DCB",
+          "tier": "primitive",
+          "figmaVariableId": null
+        }
+      }
+    },
+    "830": {
+      "$type": "color",
+      "$value": "#292A2E",
+      "$description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "$extensions": {
+        "canonical": {
+          "id": "0194B6D8ED4630CB6EA7C9CC28",
+          "tier": "primitive",
+          "figmaVariableId": null
+        }
+      }
+    },
+    "870": {
+      "$type": "color",
+      "$value": "#1F1F21",
+      "$description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "$extensions": {
+        "canonical": {
+          "id": "01BE626A8054A5E378C2BA930E",
           "tier": "primitive",
           "figmaVariableId": null
         }
       }
     }
   },
-  "neutral": {
-    "0": {
+  "blue": {
+    "10": {
       "$type": "color",
-      "$value": "#FFFFFF",
-      "$description": "Pure white.",
+      "$value": "#FCFCFD",
+      "$description": "Primitive palette color (from Atlassian ADS dummy import).",
       "$extensions": {
         "canonical": {
-          "id": "01J8X4K9F3ZQ5R7T2N6M0V8B3E",
+          "id": "01BF9D846B291E40CA98D2A441",
           "tier": "primitive",
           "figmaVariableId": null
         }
       }
     },
-    "100": {
+    "50": {
       "$type": "color",
-      "$value": "#F3F4F6",
-      "$description": "Light surface / canvas.",
+      "$value": "#E9F2FE",
+      "$description": "Primitive palette color (from Atlassian ADS dummy import).",
       "$extensions": {
         "canonical": {
-          "id": "01J8X4K9F3ZQ5R7T2N6M0V8B8J",
+          "id": "015D5FBB8F4E3F0A36D23CAA01",
           "tier": "primitive",
           "figmaVariableId": null
         }
       }
     },
-    "900": {
+    "330": {
       "$type": "color",
-      "$value": "#111827",
-      "$description": "Near-black neutral for primary text on light surfaces.",
+      "$value": "#669DF1",
+      "$description": "Primitive palette color (from Atlassian ADS dummy import).",
       "$extensions": {
         "canonical": {
-          "id": "01J8X4K9F3ZQ5R7T2N6M0V8B4F",
+          "id": "0161573F8FB9E1A717969A36FA",
+          "tier": "primitive",
+          "figmaVariableId": null
+        }
+      }
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#4688EC",
+      "$description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "$extensions": {
+        "canonical": {
+          "id": "0113AE1E7BA5BAE969D8038FC2",
+          "tier": "primitive",
+          "figmaVariableId": null
+        }
+      }
+    },
+    "520": {
+      "$type": "color",
+      "$value": "#1868DB",
+      "$description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "$extensions": {
+        "canonical": {
+          "id": "0162182370E4AE842129D85BBF",
+          "tier": "primitive",
+          "figmaVariableId": null
+        }
+      }
+    },
+    "590": {
+      "$type": "color",
+      "$value": "#1558BC",
+      "$description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "$extensions": {
+        "canonical": {
+          "id": "016FF83701E3A273B610013AEA",
+          "tier": "primitive",
+          "figmaVariableId": null
+        }
+      }
+    },
+    "670": {
+      "$type": "color",
+      "$value": "#144794",
+      "$description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "$extensions": {
+        "canonical": {
+          "id": "01857A93239B90C5D8DC0BDB86",
+          "tier": "primitive",
+          "figmaVariableId": null
+        }
+      }
+    },
+    "820": {
+      "$type": "color",
+      "$value": "#1C2B42",
+      "$description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "$extensions": {
+        "canonical": {
+          "id": "01FD5BEE813563A38D54C47DE8",
           "tier": "primitive",
           "figmaVariableId": null
         }
@@ -64,27 +232,49 @@
     }
   },
   "red": {
-    "600": {
+    "40": {
       "$type": "color",
-      "$value": "#DC2626",
-      "$description": "Error / destructive red.",
+      "$value": "#FFECEB",
+      "$description": "Primitive palette color (from Atlassian ADS dummy import).",
       "$extensions": {
         "canonical": {
-          "id": "01J8X4K9F3ZQ5R7T2N6M0V8B5G",
+          "id": "018B8F682FAA9316F20EDC4052",
           "tier": "primitive",
           "figmaVariableId": null
         }
       }
-    }
-  },
-  "green": {
-    "600": {
+    },
+    "440": {
       "$type": "color",
-      "$value": "#16A34A",
-      "$description": "Success green.",
+      "$value": "#E2483D",
+      "$description": "Primitive palette color (from Atlassian ADS dummy import).",
       "$extensions": {
         "canonical": {
-          "id": "01J8X4K9F3ZQ5R7T2N6M0V8B6H",
+          "id": "01B4E3D24AD97A0620B4132483",
+          "tier": "primitive",
+          "figmaVariableId": null
+        }
+      }
+    },
+    "520": {
+      "$type": "color",
+      "$value": "#C9372C",
+      "$description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "$extensions": {
+        "canonical": {
+          "id": "01FBB2BC7182AEF026AF087914",
+          "tier": "primitive",
+          "figmaVariableId": null
+        }
+      }
+    },
+    "590": {
+      "$type": "color",
+      "$value": "#AE2E24",
+      "$description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "$extensions": {
+        "canonical": {
+          "id": "019893B390945D3BF99B84E214",
           "tier": "primitive",
           "figmaVariableId": null
         }
@@ -92,13 +282,99 @@
     }
   },
   "amber": {
-    "500": {
+    "70": {
       "$type": "color",
-      "$value": "#F59E0B",
-      "$description": "Warning amber.",
+      "$value": "#FFF5DB",
+      "$description": "Primitive palette color (from Atlassian ADS dummy import).",
       "$extensions": {
         "canonical": {
-          "id": "01J8X4K9F3ZQ5R7T2N6M0V8B7I",
+          "id": "015509674B545116EA3C11BE98",
+          "tier": "primitive",
+          "figmaVariableId": null
+        }
+      }
+    },
+    "430": {
+      "$type": "color",
+      "$value": "#FBC828",
+      "$description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "$extensions": {
+        "canonical": {
+          "id": "01E0FECE7C7178A54A7914F34F",
+          "tier": "primitive",
+          "figmaVariableId": null
+        }
+      }
+    },
+    "560": {
+      "$type": "color",
+      "$value": "#E06C00",
+      "$description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "$extensions": {
+        "canonical": {
+          "id": "01AFA1D6E06B85E7B1533ED6EA",
+          "tier": "primitive",
+          "figmaVariableId": null
+        }
+      }
+    },
+    "690": {
+      "$type": "color",
+      "$value": "#9E4C00",
+      "$description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "$extensions": {
+        "canonical": {
+          "id": "0141084FE210067F10FE176FAD",
+          "tier": "primitive",
+          "figmaVariableId": null
+        }
+      }
+    }
+  },
+  "green": {
+    "80": {
+      "$type": "color",
+      "$value": "#EFFFD6",
+      "$description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "$extensions": {
+        "canonical": {
+          "id": "01837AC4C6039739ED88CEE9AF",
+          "tier": "primitive",
+          "figmaVariableId": null
+        }
+      }
+    },
+    "630": {
+      "$type": "color",
+      "$value": "#6A9A23",
+      "$description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "$extensions": {
+        "canonical": {
+          "id": "0193401EED851EC7C69944FD22",
+          "tier": "primitive",
+          "figmaVariableId": null
+        }
+      }
+    },
+    "680": {
+      "$type": "color",
+      "$value": "#5B7F24",
+      "$description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "$extensions": {
+        "canonical": {
+          "id": "01A2C9238BD0552B766DEFB6E6",
+          "tier": "primitive",
+          "figmaVariableId": null
+        }
+      }
+    },
+    "730": {
+      "$type": "color",
+      "$value": "#4C6B1F",
+      "$description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "$extensions": {
+        "canonical": {
+          "id": "01948312695BC1790704E117B9",
           "tier": "primitive",
           "figmaVariableId": null
         }
@@ -108,11 +384,11 @@
   "brand": {
     "blue": {
       "$type": "color",
-      "$value": "#2563EB",
-      "$description": "Brand primary blue alias.",
+      "$value": "#1868DB",
+      "$description": "Brand primary alias (Atlassian ADS dummy).",
       "$extensions": {
         "canonical": {
-          "id": "01J8X4KZP0Q6X3R9B7T2M4V8N5",
+          "id": "010188D3F019EBA444875641CD",
           "tier": "alias",
           "figmaVariableId": null
         }
@@ -120,90 +396,48 @@
     }
   },
   "color": {
-    "action": {
-      "primary": {
-        "$type": "color",
-        "$value": "#2563EB",
-        "$description": "Primary interactive action color for buttons and links.",
-        "$extensions": {
-          "canonical": {
-            "id": "01J8X4M1R5T8Q2W4X6Z0B3N7C9",
-            "tier": "semantic",
-            "figmaVariableId": null
-          }
-        },
-        "hover": {
-          "$type": "color",
-          "$value": "#1D4ED8",
-          "$description": "Hover state for primary action — aliases darker blue primitive.",
-          "$extensions": {
-            "canonical": {
-              "id": "01J8X4N3W7Y0R2T5V8X1Z4B6D8",
-              "tier": "state",
-              "figmaVariableId": null
-            }
-          }
-        },
-        "active": {
-          "$type": "color",
-          "$value": "#1D4ED8",
-          "$description": "Active/pressed state for primary action.",
-          "$extensions": {
-            "canonical": {
-              "id": "01J8X4N3W7Y0R2T5V8X1Z4B6D9",
-              "tier": "state",
-              "figmaVariableId": null
-            }
-          }
-        },
-        "disabled": {
-          "$type": "color",
-          "$value": "#F3F4F6",
-          "$description": "Disabled state — uses light neutral until dedicated disabled primitive exists.",
-          "$extensions": {
-            "canonical": {
-              "id": "01J8X4N3W7Y0R2T5V8X1Z4B6E0",
-              "tier": "state",
-              "figmaVariableId": null
-            }
-          }
+    "text": {
+      "$type": "color",
+      "$value": "#292A2E",
+      "$description": "Atlassian ADS dummy token — color.text",
+      "$extensions": {
+        "canonical": {
+          "id": "015CC50FE962E5EE5919C5DE36",
+          "tier": "semantic",
+          "figmaVariableId": null
         }
-      }
-    },
-    "background": {
-      "canvas": {
+      },
+      "subtle": {
         "$type": "color",
-        "$value": "#FFFFFF",
-        "$description": "Page canvas background.",
+        "$value": "#505258",
+        "$description": "Atlassian ADS dummy token — color.text.subtle",
         "$extensions": {
           "canonical": {
-            "id": "01J8X4M1R5T8Q2W4X6Z0B3N7D0",
+            "id": "01E5EE3F0D5697C09836D60ECE",
             "tier": "semantic",
             "figmaVariableId": null
           }
         }
       },
-      "surface": {
+      "subtlest": {
         "$type": "color",
-        "$value": "#F3F4F6",
-        "$description": "Default elevated surface background.",
+        "$value": "#6B6E76",
+        "$description": "Atlassian ADS dummy token — color.text.subtlest",
         "$extensions": {
           "canonical": {
-            "id": "01J8X4M1R5T8Q2W4X6Z0B3N7D1",
+            "id": "0151A77751AEC385D71EA67C97",
             "tier": "semantic",
             "figmaVariableId": null
           }
         }
-      }
-    },
-    "text": {
-      "primary": {
+      },
+      "disabled": {
         "$type": "color",
-        "$value": "#111827",
-        "$description": "Primary body text color.",
+        "$value": "#B7B9BF",
+        "$description": "Atlassian ADS dummy token — color.text.disabled",
         "$extensions": {
           "canonical": {
-            "id": "01J8X4M1R5T8Q2W4X6Z0B3N7D2",
+            "id": "01B806BA5A31E3401AAA90AA9D",
             "tier": "semantic",
             "figmaVariableId": null
           }
@@ -212,36 +446,34 @@
       "inverse": {
         "$type": "color",
         "$value": "#FFFFFF",
-        "$description": "Text on primary action / dark fills.",
+        "$description": "Atlassian ADS dummy token — color.text.inverse",
         "$extensions": {
           "canonical": {
-            "id": "01J8X4M1R5T8Q2W4X6Z0B3N7D3",
-            "tier": "semantic",
-            "figmaVariableId": null
-          }
-        }
-      }
-    },
-    "feedback": {
-      "error": {
-        "$type": "color",
-        "$value": "#DC2626",
-        "$description": "Error / destructive feedback color.",
-        "$extensions": {
-          "canonical": {
-            "id": "01J8X4M1R5T8Q2W4X6Z0B3N7D4",
+            "id": "0143F204D727B7AFAA41B8F398",
             "tier": "semantic",
             "figmaVariableId": null
           }
         }
       },
-      "success": {
+      "brand": {
         "$type": "color",
-        "$value": "#16A34A",
-        "$description": "Success feedback color.",
+        "$value": "#1868DB",
+        "$description": "Atlassian ADS dummy token — color.text.brand",
         "$extensions": {
           "canonical": {
-            "id": "01J8X4M1R5T8Q2W4X6Z0B3N7D5",
+            "id": "0150C721A28FA8CF0B027CC69E",
+            "tier": "semantic",
+            "figmaVariableId": null
+          }
+        }
+      },
+      "danger": {
+        "$type": "color",
+        "$value": "#AE2E24",
+        "$description": "Atlassian ADS dummy token — color.text.danger",
+        "$extensions": {
+          "canonical": {
+            "id": "019857DDFB7797E86B77978361",
             "tier": "semantic",
             "figmaVariableId": null
           }
@@ -249,11 +481,279 @@
       },
       "warning": {
         "$type": "color",
-        "$value": "#F59E0B",
-        "$description": "Warning feedback color.",
+        "$value": "#9E4C00",
+        "$description": "Atlassian ADS dummy token — color.text.warning",
         "$extensions": {
           "canonical": {
-            "id": "01J8X4M1R5T8Q2W4X6Z0B3N7D6",
+            "id": "012F4ED7205694DBEF48B7D2F9",
+            "tier": "semantic",
+            "figmaVariableId": null
+          }
+        }
+      },
+      "success": {
+        "$type": "color",
+        "$value": "#4C6B1F",
+        "$description": "Atlassian ADS dummy token — color.text.success",
+        "$extensions": {
+          "canonical": {
+            "id": "01606217A7B7029A21B44D999F",
+            "tier": "semantic",
+            "figmaVariableId": null
+          }
+        }
+      },
+      "selected": {
+        "$type": "color",
+        "$value": "#1868DB",
+        "$description": "Atlassian ADS dummy token — color.text.selected",
+        "$extensions": {
+          "canonical": {
+            "id": "015007AC757391D5EE7E0ACD93",
+            "tier": "semantic",
+            "figmaVariableId": null
+          }
+        }
+      }
+    },
+    "background": {
+      "neutral": {
+        "$type": "color",
+        "$value": "#F0F1F2",
+        "$description": "Atlassian ADS dummy token — color.background.neutral",
+        "$extensions": {
+          "canonical": {
+            "id": "017769AB249BDD0850270E5AAD",
+            "tier": "semantic",
+            "figmaVariableId": null
+          }
+        },
+        "subtle": {
+          "$type": "color",
+          "$value": "#FFFFFF",
+          "$description": "Atlassian ADS dummy token — color.background.neutral.subtle",
+          "$extensions": {
+            "canonical": {
+              "id": "013B62654B5F905921F26E261E",
+              "tier": "semantic",
+              "figmaVariableId": null
+            }
+          },
+          "hovered": {
+            "$type": "color",
+            "$value": "#F0F1F2",
+            "$description": "Atlassian ADS dummy token — color.background.neutral.subtle.hovered",
+            "$extensions": {
+              "canonical": {
+                "id": "0172C70F61C7E83765F7F2D66F",
+                "tier": "semantic",
+                "figmaVariableId": null
+              }
+            }
+          }
+        },
+        "bold": {
+          "$type": "color",
+          "$value": "#292A2E",
+          "$description": "Atlassian ADS dummy token — color.background.neutral.bold",
+          "$extensions": {
+            "canonical": {
+              "id": "0121E5AC373A7D35F69EE799A2",
+              "tier": "semantic",
+              "figmaVariableId": null
+            }
+          }
+        },
+        "hovered": {
+          "$type": "color",
+          "$value": "#DDDEDD",
+          "$description": "Atlassian ADS dummy token — color.background.neutral.hovered",
+          "$extensions": {
+            "canonical": {
+              "id": "017B6E36906529746D0B746412",
+              "tier": "state",
+              "figmaVariableId": null
+            }
+          }
+        },
+        "pressed": {
+          "$type": "color",
+          "$value": "#B7B9BF",
+          "$description": "Atlassian ADS dummy token — color.background.neutral.pressed",
+          "$extensions": {
+            "canonical": {
+              "id": "0125468CBCD46A3BE396E78F3A",
+              "tier": "state",
+              "figmaVariableId": null
+            }
+          }
+        }
+      },
+      "brand": {
+        "bold": {
+          "$type": "color",
+          "$value": "#1868DB",
+          "$description": "Atlassian ADS dummy token — color.background.brand.bold",
+          "$extensions": {
+            "canonical": {
+              "id": "01CFE52BCB64F76DEAA7D3DB46",
+              "tier": "semantic",
+              "figmaVariableId": null
+            }
+          },
+          "hovered": {
+            "$type": "color",
+            "$value": "#1558BC",
+            "$description": "Atlassian ADS dummy token — color.background.brand.bold.hovered",
+            "$extensions": {
+              "canonical": {
+                "id": "01BB7391A039AF304FD6189EEB",
+                "tier": "state",
+                "figmaVariableId": null
+              }
+            }
+          },
+          "pressed": {
+            "$type": "color",
+            "$value": "#144794",
+            "$description": "Atlassian ADS dummy token — color.background.brand.bold.pressed",
+            "$extensions": {
+              "canonical": {
+                "id": "01E62E1863DE4B78B3987AF2F5",
+                "tier": "state",
+                "figmaVariableId": null
+              }
+            }
+          }
+        },
+        "boldest": {
+          "$type": "color",
+          "$value": "#1C2B42",
+          "$description": "Atlassian ADS dummy token — color.background.brand.boldest",
+          "$extensions": {
+            "canonical": {
+              "id": "0190CD1E32E581C582AF63EDCF",
+              "tier": "semantic",
+              "figmaVariableId": null
+            }
+          }
+        },
+        "subtlest": {
+          "$type": "color",
+          "$value": "#E9F2FE",
+          "$description": "Atlassian ADS dummy token — color.background.brand.subtlest",
+          "$extensions": {
+            "canonical": {
+              "id": "01963684E5AD500561A4B9F290",
+              "tier": "semantic",
+              "figmaVariableId": null
+            }
+          }
+        }
+      },
+      "danger": {
+        "$type": "color",
+        "$value": "#FFECEB",
+        "$description": "Atlassian ADS dummy token — color.background.danger",
+        "$extensions": {
+          "canonical": {
+            "id": "0146FE13FFD71B4477CB0D58B2",
+            "tier": "semantic",
+            "figmaVariableId": null
+          }
+        },
+        "bold": {
+          "$type": "color",
+          "$value": "#C9372C",
+          "$description": "Atlassian ADS dummy token — color.background.danger.bold",
+          "$extensions": {
+            "canonical": {
+              "id": "01988F792500E6362EA4458FFF",
+              "tier": "semantic",
+              "figmaVariableId": null
+            }
+          }
+        }
+      },
+      "warning": {
+        "$type": "color",
+        "$value": "#FFF5DB",
+        "$description": "Atlassian ADS dummy token — color.background.warning",
+        "$extensions": {
+          "canonical": {
+            "id": "0176D892C2D11F9115BC208434",
+            "tier": "semantic",
+            "figmaVariableId": null
+          }
+        },
+        "bold": {
+          "$type": "color",
+          "$value": "#FBC828",
+          "$description": "Atlassian ADS dummy token — color.background.warning.bold",
+          "$extensions": {
+            "canonical": {
+              "id": "0106F2CBA997C48E92A0679D73",
+              "tier": "semantic",
+              "figmaVariableId": null
+            }
+          }
+        }
+      },
+      "success": {
+        "$type": "color",
+        "$value": "#EFFFD6",
+        "$description": "Atlassian ADS dummy token — color.background.success",
+        "$extensions": {
+          "canonical": {
+            "id": "019A2AB698876F7BF4173FAFE2",
+            "tier": "semantic",
+            "figmaVariableId": null
+          }
+        },
+        "bold": {
+          "$type": "color",
+          "$value": "#5B7F24",
+          "$description": "Atlassian ADS dummy token — color.background.success.bold",
+          "$extensions": {
+            "canonical": {
+              "id": "01559FD3EF387741103F77640C",
+              "tier": "semantic",
+              "figmaVariableId": null
+            }
+          }
+        }
+      },
+      "selected": {
+        "$type": "color",
+        "$value": "#E9F2FE",
+        "$description": "Atlassian ADS dummy token — color.background.selected",
+        "$extensions": {
+          "canonical": {
+            "id": "01E259EB1563BF8E11C7CDA772",
+            "tier": "semantic",
+            "figmaVariableId": null
+          }
+        }
+      },
+      "input": {
+        "$type": "color",
+        "$value": "#FFFFFF",
+        "$description": "Atlassian ADS dummy token — color.background.input",
+        "$extensions": {
+          "canonical": {
+            "id": "01B849F0419096B3CFA5BA1693",
+            "tier": "semantic",
+            "figmaVariableId": null
+          }
+        }
+      },
+      "disabled": {
+        "$type": "color",
+        "$value": "#F0F1F2",
+        "$description": "Atlassian ADS dummy token — color.background.disabled",
+        "$extensions": {
+          "canonical": {
+            "id": "01DC4E77F8A0620262AD471B6C",
             "tier": "semantic",
             "figmaVariableId": null
           }
@@ -261,13 +761,143 @@
       }
     },
     "border": {
-      "default": {
+      "$type": "color",
+      "$value": "#DDDEDD",
+      "$description": "Atlassian ADS dummy token — color.border",
+      "$extensions": {
+        "canonical": {
+          "id": "01404D112DA80088E58ACC6056",
+          "tier": "semantic",
+          "figmaVariableId": null
+        }
+      },
+      "bold": {
         "$type": "color",
-        "$value": "#F3F4F6",
-        "$description": "Default border color.",
+        "$value": "#7D818A",
+        "$description": "Atlassian ADS dummy token — color.border.bold",
         "$extensions": {
           "canonical": {
-            "id": "01J8X4M1R5T8Q2W4X6Z0B3N7D7",
+            "id": "01E79E647A897C0B3F9A3FA146",
+            "tier": "semantic",
+            "figmaVariableId": null
+          }
+        }
+      },
+      "focused": {
+        "$type": "color",
+        "$value": "#4688EC",
+        "$description": "Atlassian ADS dummy token — color.border.focused",
+        "$extensions": {
+          "canonical": {
+            "id": "0142B28F6EDA04446AE8CDEF8B",
+            "tier": "semantic",
+            "figmaVariableId": null
+          }
+        }
+      },
+      "danger": {
+        "$type": "color",
+        "$value": "#E2483D",
+        "$description": "Atlassian ADS dummy token — color.border.danger",
+        "$extensions": {
+          "canonical": {
+            "id": "01A94CB9FA7F85E8608D051044",
+            "tier": "semantic",
+            "figmaVariableId": null
+          }
+        }
+      },
+      "warning": {
+        "$type": "color",
+        "$value": "#E06C00",
+        "$description": "Atlassian ADS dummy token — color.border.warning",
+        "$extensions": {
+          "canonical": {
+            "id": "017DE1F88E26459DA0885C8FE8",
+            "tier": "semantic",
+            "figmaVariableId": null
+          }
+        }
+      },
+      "success": {
+        "$type": "color",
+        "$value": "#6A9A23",
+        "$description": "Atlassian ADS dummy token — color.border.success",
+        "$extensions": {
+          "canonical": {
+            "id": "01C42DBF143B52CDBF82E9BE2D",
+            "tier": "semantic",
+            "figmaVariableId": null
+          }
+        }
+      }
+    },
+    "icon": {
+      "$type": "color",
+      "$value": "#292A2E",
+      "$description": "Atlassian ADS dummy token — color.icon",
+      "$extensions": {
+        "canonical": {
+          "id": "0107BD057A32B0D97C3037F849",
+          "tier": "semantic",
+          "figmaVariableId": null
+        }
+      },
+      "subtle": {
+        "$type": "color",
+        "$value": "#505258",
+        "$description": "Atlassian ADS dummy token — color.icon.subtle",
+        "$extensions": {
+          "canonical": {
+            "id": "0182F37CD2858D43EDB168464A",
+            "tier": "semantic",
+            "figmaVariableId": null
+          }
+        }
+      },
+      "brand": {
+        "$type": "color",
+        "$value": "#1868DB",
+        "$description": "Atlassian ADS dummy token — color.icon.brand",
+        "$extensions": {
+          "canonical": {
+            "id": "0167D774C35AD470A9BCE7828E",
+            "tier": "semantic",
+            "figmaVariableId": null
+          }
+        }
+      },
+      "danger": {
+        "$type": "color",
+        "$value": "#C9372C",
+        "$description": "Atlassian ADS dummy token — color.icon.danger",
+        "$extensions": {
+          "canonical": {
+            "id": "01552C9658309751BC0FF1FA6C",
+            "tier": "semantic",
+            "figmaVariableId": null
+          }
+        }
+      },
+      "warning": {
+        "$type": "color",
+        "$value": "#E06C00",
+        "$description": "Atlassian ADS dummy token — color.icon.warning",
+        "$extensions": {
+          "canonical": {
+            "id": "01D98FA17A37FD3C9FA7F2D6E9",
+            "tier": "semantic",
+            "figmaVariableId": null
+          }
+        }
+      },
+      "success": {
+        "$type": "color",
+        "$value": "#6A9A23",
+        "$description": "Atlassian ADS dummy token — color.icon.success",
+        "$extensions": {
+          "canonical": {
+            "id": "0183AD4AEE6AAC1A951369E0DA",
             "tier": "semantic",
             "figmaVariableId": null
           }

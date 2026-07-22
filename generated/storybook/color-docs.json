@@ -1,383 +1,1337 @@
 {
-  "generatedAt": "2026-07-22T06:16:45.571Z",
+  "generatedAt": "2026-07-22T08:06:13.848Z",
   "tokens": [
     {
-      "id": "01J8X4K9F3ZQ5R7T2N6M0V8B1C",
-      "name": "blue.500",
+      "id": "0194B6D8ED4630CB6EA7C9CC28",
+      "name": "neutral.830",
       "tier": "primitive",
-      "description": "Primary brand blue, base tone.",
-      "hex": "#2563EB",
-      "cssVariable": "--blue-500",
+      "description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "hex": "#292A2E",
+      "cssVariable": "--neutral-830",
       "themes": [
         "light",
         "dark"
       ],
-      "version": "0.1.0",
+      "version": "0.2.0",
       "deprecated": false,
       "aliasOf": null,
       "figmaVariableId": null,
-      "lastModifiedAt": "2026-07-22T00:00:00Z",
-      "lastModifiedBy": "system:scaffold"
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
     },
     {
-      "id": "01J8X4K9F3ZQ5R7T2N6M0V8B2D",
-      "name": "blue.700",
+      "id": "0154FC0F5EE841305DCD859DCB",
+      "name": "neutral.670",
       "tier": "primitive",
-      "description": "Primary brand blue, darker tone.",
-      "hex": "#1D4ED8",
-      "cssVariable": "--blue-700",
+      "description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "hex": "#505258",
+      "cssVariable": "--neutral-670",
       "themes": [
         "light",
         "dark"
       ],
-      "version": "0.1.0",
+      "version": "0.2.0",
       "deprecated": false,
       "aliasOf": null,
       "figmaVariableId": null,
-      "lastModifiedAt": "2026-07-22T00:00:00Z",
-      "lastModifiedBy": "system:scaffold"
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
     },
     {
-      "id": "01J8X4K9F3ZQ5R7T2N6M0V8B3E",
+      "id": "01B6786FF81712BF2255839249",
+      "name": "neutral.560",
+      "tier": "primitive",
+      "description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "hex": "#6B6E76",
+      "cssVariable": "--neutral-560",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": null,
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "01E30371192B9117A1399F8209",
+      "name": "neutral.270",
+      "tier": "primitive",
+      "description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "hex": "#B7B9BF",
+      "cssVariable": "--neutral-270",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": null,
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "0116FE1F597B70068FD3D2458D",
       "name": "neutral.0",
       "tier": "primitive",
-      "description": "Pure white.",
+      "description": "Primitive palette color (from Atlassian ADS dummy import).",
       "hex": "#FFFFFF",
       "cssVariable": "--neutral-0",
       "themes": [
         "light",
         "dark"
       ],
-      "version": "0.1.0",
+      "version": "0.2.0",
       "deprecated": false,
       "aliasOf": null,
       "figmaVariableId": null,
-      "lastModifiedAt": "2026-07-22T00:00:00Z",
-      "lastModifiedBy": "system:scaffold"
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
     },
     {
-      "id": "01J8X4K9F3ZQ5R7T2N6M0V8B4F",
-      "name": "neutral.900",
+      "id": "0162182370E4AE842129D85BBF",
+      "name": "blue.520",
       "tier": "primitive",
-      "description": "Near-black neutral for primary text on light surfaces.",
-      "hex": "#111827",
-      "cssVariable": "--neutral-900",
+      "description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "hex": "#1868DB",
+      "cssVariable": "--blue-520",
       "themes": [
         "light",
         "dark"
       ],
-      "version": "0.1.0",
+      "version": "0.2.0",
       "deprecated": false,
       "aliasOf": null,
       "figmaVariableId": null,
-      "lastModifiedAt": "2026-07-22T00:00:00Z",
-      "lastModifiedBy": "system:scaffold"
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
     },
     {
-      "id": "01J8X4K9F3ZQ5R7T2N6M0V8B5G",
-      "name": "red.600",
+      "id": "019893B390945D3BF99B84E214",
+      "name": "red.590",
       "tier": "primitive",
-      "description": "Error / destructive red.",
-      "hex": "#DC2626",
-      "cssVariable": "--red-600",
+      "description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "hex": "#AE2E24",
+      "cssVariable": "--red-590",
       "themes": [
         "light",
         "dark"
       ],
-      "version": "0.1.0",
+      "version": "0.2.0",
       "deprecated": false,
       "aliasOf": null,
       "figmaVariableId": null,
-      "lastModifiedAt": "2026-07-22T00:00:00Z",
-      "lastModifiedBy": "system:scaffold"
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
     },
     {
-      "id": "01J8X4K9F3ZQ5R7T2N6M0V8B6H",
-      "name": "green.600",
+      "id": "0141084FE210067F10FE176FAD",
+      "name": "amber.690",
       "tier": "primitive",
-      "description": "Success green.",
-      "hex": "#16A34A",
-      "cssVariable": "--green-600",
+      "description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "hex": "#9E4C00",
+      "cssVariable": "--amber-690",
       "themes": [
         "light",
         "dark"
       ],
-      "version": "0.1.0",
+      "version": "0.2.0",
       "deprecated": false,
       "aliasOf": null,
       "figmaVariableId": null,
-      "lastModifiedAt": "2026-07-22T00:00:00Z",
-      "lastModifiedBy": "system:scaffold"
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
     },
     {
-      "id": "01J8X4K9F3ZQ5R7T2N6M0V8B7I",
-      "name": "amber.500",
+      "id": "01948312695BC1790704E117B9",
+      "name": "green.730",
       "tier": "primitive",
-      "description": "Warning amber.",
-      "hex": "#F59E0B",
-      "cssVariable": "--amber-500",
+      "description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "hex": "#4C6B1F",
+      "cssVariable": "--green-730",
       "themes": [
         "light",
         "dark"
       ],
-      "version": "0.1.0",
+      "version": "0.2.0",
       "deprecated": false,
       "aliasOf": null,
       "figmaVariableId": null,
-      "lastModifiedAt": "2026-07-22T00:00:00Z",
-      "lastModifiedBy": "system:scaffold"
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
     },
     {
-      "id": "01J8X4K9F3ZQ5R7T2N6M0V8B8J",
-      "name": "neutral.100",
+      "id": "011D513E4E096AF211BC2BE4A2",
+      "name": "neutral.50",
       "tier": "primitive",
-      "description": "Light surface / canvas.",
-      "hex": "#F3F4F6",
-      "cssVariable": "--neutral-100",
+      "description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "hex": "#F0F1F2",
+      "cssVariable": "--neutral-50",
       "themes": [
         "light",
         "dark"
       ],
-      "version": "0.1.0",
+      "version": "0.2.0",
       "deprecated": false,
       "aliasOf": null,
       "figmaVariableId": null,
-      "lastModifiedAt": "2026-07-22T00:00:00Z",
-      "lastModifiedBy": "system:scaffold"
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
     },
     {
-      "id": "01J8X4KZP0Q6X3R9B7T2M4V8N5",
+      "id": "01FD5BEE813563A38D54C47DE8",
+      "name": "blue.820",
+      "tier": "primitive",
+      "description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "hex": "#1C2B42",
+      "cssVariable": "--blue-820",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": null,
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "015D5FBB8F4E3F0A36D23CAA01",
+      "name": "blue.50",
+      "tier": "primitive",
+      "description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "hex": "#E9F2FE",
+      "cssVariable": "--blue-50",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": null,
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "018B8F682FAA9316F20EDC4052",
+      "name": "red.40",
+      "tier": "primitive",
+      "description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "hex": "#FFECEB",
+      "cssVariable": "--red-40",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": null,
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "01FBB2BC7182AEF026AF087914",
+      "name": "red.520",
+      "tier": "primitive",
+      "description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "hex": "#C9372C",
+      "cssVariable": "--red-520",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": null,
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "015509674B545116EA3C11BE98",
+      "name": "amber.70",
+      "tier": "primitive",
+      "description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "hex": "#FFF5DB",
+      "cssVariable": "--amber-70",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": null,
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "01E0FECE7C7178A54A7914F34F",
+      "name": "amber.430",
+      "tier": "primitive",
+      "description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "hex": "#FBC828",
+      "cssVariable": "--amber-430",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": null,
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "01837AC4C6039739ED88CEE9AF",
+      "name": "green.80",
+      "tier": "primitive",
+      "description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "hex": "#EFFFD6",
+      "cssVariable": "--green-80",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": null,
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "01A2C9238BD0552B766DEFB6E6",
+      "name": "green.680",
+      "tier": "primitive",
+      "description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "hex": "#5B7F24",
+      "cssVariable": "--green-680",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": null,
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "01E806BDC340B2D9DDB78F2A4B",
+      "name": "neutral.130",
+      "tier": "primitive",
+      "description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "hex": "#DDDEDD",
+      "cssVariable": "--neutral-130",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": null,
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "0127F6F043A15B2F65671E8B90",
+      "name": "neutral.480",
+      "tier": "primitive",
+      "description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "hex": "#7D818A",
+      "cssVariable": "--neutral-480",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": null,
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "0113AE1E7BA5BAE969D8038FC2",
+      "name": "blue.400",
+      "tier": "primitive",
+      "description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "hex": "#4688EC",
+      "cssVariable": "--blue-400",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": null,
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "01B4E3D24AD97A0620B4132483",
+      "name": "red.440",
+      "tier": "primitive",
+      "description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "hex": "#E2483D",
+      "cssVariable": "--red-440",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": null,
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "01AFA1D6E06B85E7B1533ED6EA",
+      "name": "amber.560",
+      "tier": "primitive",
+      "description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "hex": "#E06C00",
+      "cssVariable": "--amber-560",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": null,
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "0193401EED851EC7C69944FD22",
+      "name": "green.630",
+      "tier": "primitive",
+      "description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "hex": "#6A9A23",
+      "cssVariable": "--green-630",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": null,
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "016FF83701E3A273B610013AEA",
+      "name": "blue.590",
+      "tier": "primitive",
+      "description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "hex": "#1558BC",
+      "cssVariable": "--blue-590",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": null,
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "01857A93239B90C5D8DC0BDB86",
+      "name": "blue.670",
+      "tier": "primitive",
+      "description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "hex": "#144794",
+      "cssVariable": "--blue-670",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": null,
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "018DB0EFE768A3F0A5ED9A5913",
+      "name": "neutral.10",
+      "tier": "primitive",
+      "description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "hex": "#FCFCFC",
+      "cssVariable": "--neutral-10",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": null,
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "0126BE4190A8B2C6D2668CA746",
+      "name": "neutral.180",
+      "tier": "primitive",
+      "description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "hex": "#CECFD2",
+      "cssVariable": "--neutral-180",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": null,
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "01BE626A8054A5E378C2BA930E",
+      "name": "neutral.870",
+      "tier": "primitive",
+      "description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "hex": "#1F1F21",
+      "cssVariable": "--neutral-870",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": null,
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "0161573F8FB9E1A717969A36FA",
+      "name": "blue.330",
+      "tier": "primitive",
+      "description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "hex": "#669DF1",
+      "cssVariable": "--blue-330",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": null,
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "01BF9D846B291E40CA98D2A441",
+      "name": "blue.10",
+      "tier": "primitive",
+      "description": "Primitive palette color (from Atlassian ADS dummy import).",
+      "hex": "#FCFCFD",
+      "cssVariable": "--blue-10",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": null,
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "010188D3F019EBA444875641CD",
       "name": "brand.blue",
       "tier": "alias",
-      "description": "Brand primary blue alias.",
-      "hex": "#2563EB",
+      "description": "Brand primary alias (Atlassian ADS dummy).",
+      "hex": "#1868DB",
       "cssVariable": "--brand-blue",
       "themes": [
         "light",
         "dark"
       ],
-      "version": "0.1.0",
+      "version": "0.2.0",
       "deprecated": false,
-      "aliasOf": "01J8X4K9F3ZQ5R7T2N6M0V8B1C",
+      "aliasOf": "01CFE52BCB64F76DEAA7D3DB46",
       "figmaVariableId": null,
-      "lastModifiedAt": "2026-07-22T00:00:00Z",
-      "lastModifiedBy": "system:scaffold"
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
     },
     {
-      "id": "01J8X4M1R5T8Q2W4X6Z0B3N7C9",
-      "name": "color.action.primary",
+      "id": "015CC50FE962E5EE5919C5DE36",
+      "name": "color.text",
       "tier": "semantic",
-      "description": "Primary interactive action color for buttons and links.",
-      "hex": "#2563EB",
-      "cssVariable": "--color-action-primary",
+      "description": "Atlassian ADS dummy token — color.text",
+      "hex": "#292A2E",
+      "cssVariable": "--color-text",
       "themes": [
         "light",
         "dark"
       ],
-      "version": "0.1.0",
+      "version": "0.2.0",
       "deprecated": false,
-      "aliasOf": "01J8X4KZP0Q6X3R9B7T2M4V8N5",
+      "aliasOf": "0194B6D8ED4630CB6EA7C9CC28",
       "figmaVariableId": null,
-      "lastModifiedAt": "2026-07-22T00:00:00Z",
-      "lastModifiedBy": "system:scaffold"
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
     },
     {
-      "id": "01J8X4M1R5T8Q2W4X6Z0B3N7D0",
-      "name": "color.background.canvas",
+      "id": "01E5EE3F0D5697C09836D60ECE",
+      "name": "color.text.subtle",
       "tier": "semantic",
-      "description": "Page canvas background.",
-      "hex": "#FFFFFF",
-      "cssVariable": "--color-background-canvas",
+      "description": "Atlassian ADS dummy token — color.text.subtle",
+      "hex": "#505258",
+      "cssVariable": "--color-text-subtle",
       "themes": [
         "light",
         "dark"
       ],
-      "version": "0.1.0",
+      "version": "0.2.0",
       "deprecated": false,
-      "aliasOf": "01J8X4K9F3ZQ5R7T2N6M0V8B3E",
+      "aliasOf": "0154FC0F5EE841305DCD859DCB",
       "figmaVariableId": null,
-      "lastModifiedAt": "2026-07-22T00:00:00Z",
-      "lastModifiedBy": "system:scaffold"
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
     },
     {
-      "id": "01J8X4M1R5T8Q2W4X6Z0B3N7D1",
-      "name": "color.background.surface",
+      "id": "0151A77751AEC385D71EA67C97",
+      "name": "color.text.subtlest",
       "tier": "semantic",
-      "description": "Default elevated surface background.",
-      "hex": "#F3F4F6",
-      "cssVariable": "--color-background-surface",
+      "description": "Atlassian ADS dummy token — color.text.subtlest",
+      "hex": "#6B6E76",
+      "cssVariable": "--color-text-subtlest",
       "themes": [
         "light",
         "dark"
       ],
-      "version": "0.1.0",
+      "version": "0.2.0",
       "deprecated": false,
-      "aliasOf": "01J8X4K9F3ZQ5R7T2N6M0V8B8J",
+      "aliasOf": "01B6786FF81712BF2255839249",
       "figmaVariableId": null,
-      "lastModifiedAt": "2026-07-22T00:00:00Z",
-      "lastModifiedBy": "system:scaffold"
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
     },
     {
-      "id": "01J8X4M1R5T8Q2W4X6Z0B3N7D2",
-      "name": "color.text.primary",
+      "id": "01B806BA5A31E3401AAA90AA9D",
+      "name": "color.text.disabled",
       "tier": "semantic",
-      "description": "Primary body text color.",
-      "hex": "#111827",
-      "cssVariable": "--color-text-primary",
+      "description": "Atlassian ADS dummy token — color.text.disabled",
+      "hex": "#B7B9BF",
+      "cssVariable": "--color-text-disabled",
       "themes": [
         "light",
         "dark"
       ],
-      "version": "0.1.0",
+      "version": "0.2.0",
       "deprecated": false,
-      "aliasOf": "01J8X4K9F3ZQ5R7T2N6M0V8B4F",
+      "aliasOf": "01E30371192B9117A1399F8209",
       "figmaVariableId": null,
-      "lastModifiedAt": "2026-07-22T00:00:00Z",
-      "lastModifiedBy": "system:scaffold"
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
     },
     {
-      "id": "01J8X4M1R5T8Q2W4X6Z0B3N7D3",
+      "id": "0143F204D727B7AFAA41B8F398",
       "name": "color.text.inverse",
       "tier": "semantic",
-      "description": "Text on primary action / dark fills.",
+      "description": "Atlassian ADS dummy token — color.text.inverse",
       "hex": "#FFFFFF",
       "cssVariable": "--color-text-inverse",
       "themes": [
         "light",
         "dark"
       ],
-      "version": "0.1.0",
+      "version": "0.2.0",
       "deprecated": false,
-      "aliasOf": "01J8X4K9F3ZQ5R7T2N6M0V8B3E",
+      "aliasOf": "0116FE1F597B70068FD3D2458D",
       "figmaVariableId": null,
-      "lastModifiedAt": "2026-07-22T00:00:00Z",
-      "lastModifiedBy": "system:scaffold"
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
     },
     {
-      "id": "01J8X4M1R5T8Q2W4X6Z0B3N7D4",
-      "name": "color.feedback.error",
+      "id": "0150C721A28FA8CF0B027CC69E",
+      "name": "color.text.brand",
       "tier": "semantic",
-      "description": "Error / destructive feedback color.",
-      "hex": "#DC2626",
-      "cssVariable": "--color-feedback-error",
+      "description": "Atlassian ADS dummy token — color.text.brand",
+      "hex": "#1868DB",
+      "cssVariable": "--color-text-brand",
       "themes": [
         "light",
         "dark"
       ],
-      "version": "0.1.0",
+      "version": "0.2.0",
       "deprecated": false,
-      "aliasOf": "01J8X4K9F3ZQ5R7T2N6M0V8B5G",
+      "aliasOf": "0162182370E4AE842129D85BBF",
       "figmaVariableId": null,
-      "lastModifiedAt": "2026-07-22T00:00:00Z",
-      "lastModifiedBy": "system:scaffold"
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
     },
     {
-      "id": "01J8X4M1R5T8Q2W4X6Z0B3N7D5",
-      "name": "color.feedback.success",
+      "id": "019857DDFB7797E86B77978361",
+      "name": "color.text.danger",
       "tier": "semantic",
-      "description": "Success feedback color.",
-      "hex": "#16A34A",
-      "cssVariable": "--color-feedback-success",
+      "description": "Atlassian ADS dummy token — color.text.danger",
+      "hex": "#AE2E24",
+      "cssVariable": "--color-text-danger",
       "themes": [
         "light",
         "dark"
       ],
-      "version": "0.1.0",
+      "version": "0.2.0",
       "deprecated": false,
-      "aliasOf": "01J8X4K9F3ZQ5R7T2N6M0V8B6H",
+      "aliasOf": "019893B390945D3BF99B84E214",
       "figmaVariableId": null,
-      "lastModifiedAt": "2026-07-22T00:00:00Z",
-      "lastModifiedBy": "system:scaffold"
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
     },
     {
-      "id": "01J8X4M1R5T8Q2W4X6Z0B3N7D6",
-      "name": "color.feedback.warning",
+      "id": "012F4ED7205694DBEF48B7D2F9",
+      "name": "color.text.warning",
       "tier": "semantic",
-      "description": "Warning feedback color.",
-      "hex": "#F59E0B",
-      "cssVariable": "--color-feedback-warning",
+      "description": "Atlassian ADS dummy token — color.text.warning",
+      "hex": "#9E4C00",
+      "cssVariable": "--color-text-warning",
       "themes": [
         "light",
         "dark"
       ],
-      "version": "0.1.0",
+      "version": "0.2.0",
       "deprecated": false,
-      "aliasOf": "01J8X4K9F3ZQ5R7T2N6M0V8B7I",
+      "aliasOf": "0141084FE210067F10FE176FAD",
       "figmaVariableId": null,
-      "lastModifiedAt": "2026-07-22T00:00:00Z",
-      "lastModifiedBy": "system:scaffold"
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
     },
     {
-      "id": "01J8X4M1R5T8Q2W4X6Z0B3N7D7",
-      "name": "color.border.default",
+      "id": "01606217A7B7029A21B44D999F",
+      "name": "color.text.success",
       "tier": "semantic",
-      "description": "Default border color.",
-      "hex": "#F3F4F6",
-      "cssVariable": "--color-border-default",
+      "description": "Atlassian ADS dummy token — color.text.success",
+      "hex": "#4C6B1F",
+      "cssVariable": "--color-text-success",
       "themes": [
         "light",
         "dark"
       ],
-      "version": "0.1.0",
+      "version": "0.2.0",
       "deprecated": false,
-      "aliasOf": "01J8X4K9F3ZQ5R7T2N6M0V8B8J",
+      "aliasOf": "01948312695BC1790704E117B9",
       "figmaVariableId": null,
-      "lastModifiedAt": "2026-07-22T00:00:00Z",
-      "lastModifiedBy": "system:scaffold"
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
     },
     {
-      "id": "01J8X4N3W7Y0R2T5V8X1Z4B6D8",
-      "name": "color.action.primary.hover",
+      "id": "015007AC757391D5EE7E0ACD93",
+      "name": "color.text.selected",
+      "tier": "semantic",
+      "description": "Atlassian ADS dummy token — color.text.selected",
+      "hex": "#1868DB",
+      "cssVariable": "--color-text-selected",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": "0162182370E4AE842129D85BBF",
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "017769AB249BDD0850270E5AAD",
+      "name": "color.background.neutral",
+      "tier": "semantic",
+      "description": "Atlassian ADS dummy token — color.background.neutral",
+      "hex": "#F0F1F2",
+      "cssVariable": "--color-background-neutral",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": "011D513E4E096AF211BC2BE4A2",
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "013B62654B5F905921F26E261E",
+      "name": "color.background.neutral.subtle",
+      "tier": "semantic",
+      "description": "Atlassian ADS dummy token — color.background.neutral.subtle",
+      "hex": "#FFFFFF",
+      "cssVariable": "--color-background-neutral-subtle",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": "0116FE1F597B70068FD3D2458D",
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "0172C70F61C7E83765F7F2D66F",
+      "name": "color.background.neutral.subtle.hovered",
+      "tier": "semantic",
+      "description": "Atlassian ADS dummy token — color.background.neutral.subtle.hovered",
+      "hex": "#F0F1F2",
+      "cssVariable": "--color-background-neutral-subtle-hovered",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": "011D513E4E096AF211BC2BE4A2",
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "0121E5AC373A7D35F69EE799A2",
+      "name": "color.background.neutral.bold",
+      "tier": "semantic",
+      "description": "Atlassian ADS dummy token — color.background.neutral.bold",
+      "hex": "#292A2E",
+      "cssVariable": "--color-background-neutral-bold",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": "0194B6D8ED4630CB6EA7C9CC28",
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "01CFE52BCB64F76DEAA7D3DB46",
+      "name": "color.background.brand.bold",
+      "tier": "semantic",
+      "description": "Atlassian ADS dummy token — color.background.brand.bold",
+      "hex": "#1868DB",
+      "cssVariable": "--color-background-brand-bold",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": "0162182370E4AE842129D85BBF",
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "0190CD1E32E581C582AF63EDCF",
+      "name": "color.background.brand.boldest",
+      "tier": "semantic",
+      "description": "Atlassian ADS dummy token — color.background.brand.boldest",
+      "hex": "#1C2B42",
+      "cssVariable": "--color-background-brand-boldest",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": "01FD5BEE813563A38D54C47DE8",
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "01963684E5AD500561A4B9F290",
+      "name": "color.background.brand.subtlest",
+      "tier": "semantic",
+      "description": "Atlassian ADS dummy token — color.background.brand.subtlest",
+      "hex": "#E9F2FE",
+      "cssVariable": "--color-background-brand-subtlest",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": "015D5FBB8F4E3F0A36D23CAA01",
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "0146FE13FFD71B4477CB0D58B2",
+      "name": "color.background.danger",
+      "tier": "semantic",
+      "description": "Atlassian ADS dummy token — color.background.danger",
+      "hex": "#FFECEB",
+      "cssVariable": "--color-background-danger",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": "018B8F682FAA9316F20EDC4052",
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "01988F792500E6362EA4458FFF",
+      "name": "color.background.danger.bold",
+      "tier": "semantic",
+      "description": "Atlassian ADS dummy token — color.background.danger.bold",
+      "hex": "#C9372C",
+      "cssVariable": "--color-background-danger-bold",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": "01FBB2BC7182AEF026AF087914",
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "0176D892C2D11F9115BC208434",
+      "name": "color.background.warning",
+      "tier": "semantic",
+      "description": "Atlassian ADS dummy token — color.background.warning",
+      "hex": "#FFF5DB",
+      "cssVariable": "--color-background-warning",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": "015509674B545116EA3C11BE98",
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "0106F2CBA997C48E92A0679D73",
+      "name": "color.background.warning.bold",
+      "tier": "semantic",
+      "description": "Atlassian ADS dummy token — color.background.warning.bold",
+      "hex": "#FBC828",
+      "cssVariable": "--color-background-warning-bold",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": "01E0FECE7C7178A54A7914F34F",
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "019A2AB698876F7BF4173FAFE2",
+      "name": "color.background.success",
+      "tier": "semantic",
+      "description": "Atlassian ADS dummy token — color.background.success",
+      "hex": "#EFFFD6",
+      "cssVariable": "--color-background-success",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": "01837AC4C6039739ED88CEE9AF",
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "01559FD3EF387741103F77640C",
+      "name": "color.background.success.bold",
+      "tier": "semantic",
+      "description": "Atlassian ADS dummy token — color.background.success.bold",
+      "hex": "#5B7F24",
+      "cssVariable": "--color-background-success-bold",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": "01A2C9238BD0552B766DEFB6E6",
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "01E259EB1563BF8E11C7CDA772",
+      "name": "color.background.selected",
+      "tier": "semantic",
+      "description": "Atlassian ADS dummy token — color.background.selected",
+      "hex": "#E9F2FE",
+      "cssVariable": "--color-background-selected",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": "015D5FBB8F4E3F0A36D23CAA01",
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "01B849F0419096B3CFA5BA1693",
+      "name": "color.background.input",
+      "tier": "semantic",
+      "description": "Atlassian ADS dummy token — color.background.input",
+      "hex": "#FFFFFF",
+      "cssVariable": "--color-background-input",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": "0116FE1F597B70068FD3D2458D",
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "01DC4E77F8A0620262AD471B6C",
+      "name": "color.background.disabled",
+      "tier": "semantic",
+      "description": "Atlassian ADS dummy token — color.background.disabled",
+      "hex": "#F0F1F2",
+      "cssVariable": "--color-background-disabled",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": "011D513E4E096AF211BC2BE4A2",
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "01404D112DA80088E58ACC6056",
+      "name": "color.border",
+      "tier": "semantic",
+      "description": "Atlassian ADS dummy token — color.border",
+      "hex": "#DDDEDD",
+      "cssVariable": "--color-border",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": "01E806BDC340B2D9DDB78F2A4B",
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "01E79E647A897C0B3F9A3FA146",
+      "name": "color.border.bold",
+      "tier": "semantic",
+      "description": "Atlassian ADS dummy token — color.border.bold",
+      "hex": "#7D818A",
+      "cssVariable": "--color-border-bold",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": "0127F6F043A15B2F65671E8B90",
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "0142B28F6EDA04446AE8CDEF8B",
+      "name": "color.border.focused",
+      "tier": "semantic",
+      "description": "Atlassian ADS dummy token — color.border.focused",
+      "hex": "#4688EC",
+      "cssVariable": "--color-border-focused",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": "0113AE1E7BA5BAE969D8038FC2",
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "01A94CB9FA7F85E8608D051044",
+      "name": "color.border.danger",
+      "tier": "semantic",
+      "description": "Atlassian ADS dummy token — color.border.danger",
+      "hex": "#E2483D",
+      "cssVariable": "--color-border-danger",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": "01B4E3D24AD97A0620B4132483",
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "017DE1F88E26459DA0885C8FE8",
+      "name": "color.border.warning",
+      "tier": "semantic",
+      "description": "Atlassian ADS dummy token — color.border.warning",
+      "hex": "#E06C00",
+      "cssVariable": "--color-border-warning",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": "01AFA1D6E06B85E7B1533ED6EA",
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "01C42DBF143B52CDBF82E9BE2D",
+      "name": "color.border.success",
+      "tier": "semantic",
+      "description": "Atlassian ADS dummy token — color.border.success",
+      "hex": "#6A9A23",
+      "cssVariable": "--color-border-success",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": "0193401EED851EC7C69944FD22",
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "0107BD057A32B0D97C3037F849",
+      "name": "color.icon",
+      "tier": "semantic",
+      "description": "Atlassian ADS dummy token — color.icon",
+      "hex": "#292A2E",
+      "cssVariable": "--color-icon",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": "0194B6D8ED4630CB6EA7C9CC28",
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "0182F37CD2858D43EDB168464A",
+      "name": "color.icon.subtle",
+      "tier": "semantic",
+      "description": "Atlassian ADS dummy token — color.icon.subtle",
+      "hex": "#505258",
+      "cssVariable": "--color-icon-subtle",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": "0154FC0F5EE841305DCD859DCB",
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "0167D774C35AD470A9BCE7828E",
+      "name": "color.icon.brand",
+      "tier": "semantic",
+      "description": "Atlassian ADS dummy token — color.icon.brand",
+      "hex": "#1868DB",
+      "cssVariable": "--color-icon-brand",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": "0162182370E4AE842129D85BBF",
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "01552C9658309751BC0FF1FA6C",
+      "name": "color.icon.danger",
+      "tier": "semantic",
+      "description": "Atlassian ADS dummy token — color.icon.danger",
+      "hex": "#C9372C",
+      "cssVariable": "--color-icon-danger",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": "01FBB2BC7182AEF026AF087914",
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "01D98FA17A37FD3C9FA7F2D6E9",
+      "name": "color.icon.warning",
+      "tier": "semantic",
+      "description": "Atlassian ADS dummy token — color.icon.warning",
+      "hex": "#E06C00",
+      "cssVariable": "--color-icon-warning",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": "01AFA1D6E06B85E7B1533ED6EA",
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "0183AD4AEE6AAC1A951369E0DA",
+      "name": "color.icon.success",
+      "tier": "semantic",
+      "description": "Atlassian ADS dummy token — color.icon.success",
+      "hex": "#6A9A23",
+      "cssVariable": "--color-icon-success",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": "0193401EED851EC7C69944FD22",
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "017B6E36906529746D0B746412",
+      "name": "color.background.neutral.hovered",
       "tier": "state",
-      "description": "Hover state for primary action — aliases darker blue primitive.",
-      "hex": "#1D4ED8",
-      "cssVariable": "--color-action-primary-hover",
+      "description": "Atlassian ADS dummy token — color.background.neutral.hovered",
+      "hex": "#DDDEDD",
+      "cssVariable": "--color-background-neutral-hovered",
       "themes": [
         "light",
         "dark"
       ],
-      "version": "0.1.0",
+      "version": "0.2.0",
       "deprecated": false,
-      "aliasOf": "01J8X4K9F3ZQ5R7T2N6M0V8B2D",
+      "aliasOf": "01E806BDC340B2D9DDB78F2A4B",
       "figmaVariableId": null,
-      "lastModifiedAt": "2026-07-22T00:00:00Z",
-      "lastModifiedBy": "system:scaffold"
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
     },
     {
-      "id": "01J8X4N3W7Y0R2T5V8X1Z4B6D9",
-      "name": "color.action.primary.active",
+      "id": "0125468CBCD46A3BE396E78F3A",
+      "name": "color.background.neutral.pressed",
       "tier": "state",
-      "description": "Active/pressed state for primary action.",
-      "hex": "#1D4ED8",
-      "cssVariable": "--color-action-primary-active",
+      "description": "Atlassian ADS dummy token — color.background.neutral.pressed",
+      "hex": "#B7B9BF",
+      "cssVariable": "--color-background-neutral-pressed",
       "themes": [
         "light",
         "dark"
       ],
-      "version": "0.1.0",
+      "version": "0.2.0",
       "deprecated": false,
-      "aliasOf": "01J8X4K9F3ZQ5R7T2N6M0V8B2D",
+      "aliasOf": "01E30371192B9117A1399F8209",
       "figmaVariableId": null,
-      "lastModifiedAt": "2026-07-22T00:00:00Z",
-      "lastModifiedBy": "system:scaffold"
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
     },
     {
-      "id": "01J8X4N3W7Y0R2T5V8X1Z4B6E0",
-      "name": "color.action.primary.disabled",
+      "id": "01BB7391A039AF304FD6189EEB",
+      "name": "color.background.brand.bold.hovered",
       "tier": "state",
-      "description": "Disabled state — uses light neutral until dedicated disabled primitive exists.",
-      "hex": "#F3F4F6",
-      "cssVariable": "--color-action-primary-disabled",
+      "description": "Atlassian ADS dummy token — color.background.brand.bold.hovered",
+      "hex": "#1558BC",
+      "cssVariable": "--color-background-brand-bold-hovered",
       "themes": [
         "light",
         "dark"
       ],
-      "version": "0.1.0",
+      "version": "0.2.0",
       "deprecated": false,
-      "aliasOf": "01J8X4K9F3ZQ5R7T2N6M0V8B8J",
+      "aliasOf": "016FF83701E3A273B610013AEA",
       "figmaVariableId": null,
-      "lastModifiedAt": "2026-07-22T00:00:00Z",
-      "lastModifiedBy": "system:scaffold"
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
+    },
+    {
+      "id": "01E62E1863DE4B78B3987AF2F5",
+      "name": "color.background.brand.bold.pressed",
+      "tier": "state",
+      "description": "Atlassian ADS dummy token — color.background.brand.bold.pressed",
+      "hex": "#144794",
+      "cssVariable": "--color-background-brand-bold-pressed",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.2.0",
+      "deprecated": false,
+      "aliasOf": "01857A93239B90C5D8DC0BDB86",
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T12:00:00Z",
+      "lastModifiedBy": "dummy:atlassian-design-system"
     }
   ]
 }

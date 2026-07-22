@@ -1,5 +1,7 @@
 {
-  "version": "0.1.0",
-  "generatedAt": null,
+  "version": "0.2.0",
+  "generatedAt": "2026-07-22T08:06:13.030Z",
+  "source": "dummy:atlassian-design-system",
+  "note": "Dummy data — no Figma variable IDs until plugin export or Enterprise API",
   "mappings": []
 }

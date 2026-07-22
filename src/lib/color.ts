@@ -1,19 +1,38 @@
 import type { ColorValue } from "../types/token.js";
 
-const HEX_RE = /^#([0-9A-Fa-f]{6}|[0-9A-Fa-f]{3})$/;
+const HEX_RE = /^#([0-9A-Fa-f]{6}|[0-9A-Fa-f]{3}|[0-9A-Fa-f]{8})$/;
 
-export function parseHex(hex: string): { r: number; g: number; b: number } {
-  const normalized = hex.trim();
-  if (!HEX_RE.test(normalized)) {
+/** Normalize #RGB, #RRGGBB, or #RRGGBBAA (composited on white) to #RRGGBB */
+export function normalizeHex(hex: string): string {
+  const raw = hex.trim().toUpperCase();
+  if (!HEX_RE.test(raw)) {
     throw new Error(`Invalid hex color: ${hex}`);
   }
-  let h = normalized.slice(1);
+  let h = raw.slice(1);
   if (h.length === 3) {
     h = h
       .split("")
       .map((c) => c + c)
       .join("");
+    return `#${h}`;
   }
+  if (h.length === 8) {
+    const r = parseInt(h.slice(0, 2), 16);
+    const g = parseInt(h.slice(2, 4), 16);
+    const b = parseInt(h.slice(4, 6), 16);
+    const a = parseInt(h.slice(6, 8), 16) / 255;
+    const blend = (c: number) => Math.round(c * a + 255 * (1 - a));
+    const rr = blend(r).toString(16).padStart(2, "0");
+    const gg = blend(g).toString(16).padStart(2, "0");
+    const bb = blend(b).toString(16).padStart(2, "0");
+    return `#${rr}${gg}${bb}`;
+  }
+  return `#${h}`;
+}
+
+export function parseHex(hex: string): { r: number; g: number; b: number } {
+  const normalized = normalizeHex(hex);
+  const h = normalized.slice(1);
   const n = parseInt(h, 16);
   return { r: (n >> 16) & 255, g: (n >> 8) & 255, b: n & 255 };
 }
@@ -53,16 +72,10 @@ export function rgbToHsl(
 }
 
 export function colorFromHex(hex: string): ColorValue {
-  const upper = hex.toUpperCase();
+  const upper = normalizeHex(hex);
   const rgb = parseHex(upper);
   const hsl = rgbToHsl(rgb.r, rgb.g, rgb.b);
-  return { hex: upper.length === 4 ? expandShortHex(upper) : upper, rgb, hsl };
-}
-
-function expandShortHex(hex: string): string {
-  const h = hex.slice(1);
-  if (h.length !== 3) return hex;
-  return `#${h[0]}${h[0]}${h[1]}${h[1]}${h[2]}${h[2]}`;
+  return { hex: upper, rgb, hsl };
 }
 
 /** Relative luminance (WCAG) */

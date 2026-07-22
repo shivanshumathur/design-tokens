@@ -1,13 +1,19 @@
 [
   {
-    "foreground": "01J8X4M1R5T8Q2W4X6Z0B3N7D2",
-    "background": "01J8X4M1R5T8Q2W4X6Z0B3N7D0",
+    "foreground": "015CC50FE962E5EE5919C5DE36",
+    "background": "017769AB249BDD0850270E5AAD",
     "minRatioAA": 4.5,
     "largeText": false
   },
   {
-    "foreground": "01J8X4M1R5T8Q2W4X6Z0B3N7D3",
-    "background": "01J8X4M1R5T8Q2W4X6Z0B3N7C9",
+    "foreground": "0143F204D727B7AFAA41B8F398",
+    "background": "01CFE52BCB64F76DEAA7D3DB46",
+    "minRatioAA": 4.5,
+    "largeText": false
+  },
+  {
+    "foreground": "015CC50FE962E5EE5919C5DE36",
+    "background": "013B62654B5F905921F26E261E",
     "minRatioAA": 4.5,
     "largeText": false
   }

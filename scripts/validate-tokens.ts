@@ -9,7 +9,7 @@ const COLORS = join(ROOT, "tokens/colors");
 
 const PRIMITIVE_NAME = /^[a-z]+\.\d{1,4}$/;
 const SEMANTIC_NAME =
-  /^color\.[a-z]+(\.[a-z0-9-]+){1,4}$/;
+  /^color\.[a-z]+(\.[a-z0-9-]+){0,4}$/;
 const ALIAS_NAME = /^[a-z]+(\.[a-z0-9-]+)+$/;
 
 function loadTier(file: string): CanonicalToken[] {

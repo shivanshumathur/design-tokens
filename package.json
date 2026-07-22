@@ -7,6 +7,7 @@
     "validate": "tsx scripts/validate-tokens.ts",
     "contrast": "tsx scripts/contrast-check.ts",
     "extract": "tsx scripts/figma-extract.ts",
+    "import:atlassian": "tsx scripts/import-atlassian-dummy.ts",
     "writeback": "tsx scripts/figma-writeback.ts",
     "build": "tsx scripts/build-tokens.ts",
     "registry": "tsx scripts/build-registry.ts"
@@ -19,6 +20,7 @@
     "node": ">=20"
   },
   "devDependencies": {
+    "@atlaskit/tokens": "^16.2.0",
     "@types/node": "^22.10.0",
     "tsx": "^4.19.2",
     "typescript": "^5.7.2"

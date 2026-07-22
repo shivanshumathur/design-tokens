@@ -1,9 +1,11 @@
 {
   "theme": "dark",
   "resolutions": {
-    "color.background.canvas": "01J8X4K9F3ZQ5R7T2N6M0V8B4F",
-    "color.background.surface": "01J8X4K9F3ZQ5R7T2N6M0V8B4F",
-    "color.text.primary": "01J8X4K9F3ZQ5R7T2N6M0V8B3E",
-    "color.action.primary": "01J8X4KZP0Q6X3R9B7T2M4V8N5"
+    "color.background.neutral": "018DB0EFE768A3F0A5ED9A5913",
+    "color.background.neutral.subtle": "0116FE1F597B70068FD3D2458D",
+    "color.text": "0126BE4190A8B2C6D2668CA746",
+    "color.text.inverse": "01BE626A8054A5E378C2BA930E",
+    "color.background.brand.bold": "0161573F8FB9E1A717969A36FA",
+    "color.border": "01BF9D846B291E40CA98D2A441"
   }
 }
