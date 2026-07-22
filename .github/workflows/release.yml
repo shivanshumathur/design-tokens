@@ -1,0 +1,21 @@
+name: Release tokens
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+      - run: npm ci
+      - run: npm run validate
+      - run: npm run contrast
+      - run: npm run build
+      # Phase 3+: publish package + trigger Storybook deploy
+      - run: echo "Publish stub — wire npm publish + Storybook in Phase 3–4"

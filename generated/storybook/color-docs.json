@@ -1,0 +1,383 @@
+{
+  "generatedAt": "2026-07-22T06:16:45.571Z",
+  "tokens": [
+    {
+      "id": "01J8X4K9F3ZQ5R7T2N6M0V8B1C",
+      "name": "blue.500",
+      "tier": "primitive",
+      "description": "Primary brand blue, base tone.",
+      "hex": "#2563EB",
+      "cssVariable": "--blue-500",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.1.0",
+      "deprecated": false,
+      "aliasOf": null,
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T00:00:00Z",
+      "lastModifiedBy": "system:scaffold"
+    },
+    {
+      "id": "01J8X4K9F3ZQ5R7T2N6M0V8B2D",
+      "name": "blue.700",
+      "tier": "primitive",
+      "description": "Primary brand blue, darker tone.",
+      "hex": "#1D4ED8",
+      "cssVariable": "--blue-700",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.1.0",
+      "deprecated": false,
+      "aliasOf": null,
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T00:00:00Z",
+      "lastModifiedBy": "system:scaffold"
+    },
+    {
+      "id": "01J8X4K9F3ZQ5R7T2N6M0V8B3E",
+      "name": "neutral.0",
+      "tier": "primitive",
+      "description": "Pure white.",
+      "hex": "#FFFFFF",
+      "cssVariable": "--neutral-0",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.1.0",
+      "deprecated": false,
+      "aliasOf": null,
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T00:00:00Z",
+      "lastModifiedBy": "system:scaffold"
+    },
+    {
+      "id": "01J8X4K9F3ZQ5R7T2N6M0V8B4F",
+      "name": "neutral.900",
+      "tier": "primitive",
+      "description": "Near-black neutral for primary text on light surfaces.",
+      "hex": "#111827",
+      "cssVariable": "--neutral-900",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.1.0",
+      "deprecated": false,
+      "aliasOf": null,
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T00:00:00Z",
+      "lastModifiedBy": "system:scaffold"
+    },
+    {
+      "id": "01J8X4K9F3ZQ5R7T2N6M0V8B5G",
+      "name": "red.600",
+      "tier": "primitive",
+      "description": "Error / destructive red.",
+      "hex": "#DC2626",
+      "cssVariable": "--red-600",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.1.0",
+      "deprecated": false,
+      "aliasOf": null,
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T00:00:00Z",
+      "lastModifiedBy": "system:scaffold"
+    },
+    {
+      "id": "01J8X4K9F3ZQ5R7T2N6M0V8B6H",
+      "name": "green.600",
+      "tier": "primitive",
+      "description": "Success green.",
+      "hex": "#16A34A",
+      "cssVariable": "--green-600",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.1.0",
+      "deprecated": false,
+      "aliasOf": null,
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T00:00:00Z",
+      "lastModifiedBy": "system:scaffold"
+    },
+    {
+      "id": "01J8X4K9F3ZQ5R7T2N6M0V8B7I",
+      "name": "amber.500",
+      "tier": "primitive",
+      "description": "Warning amber.",
+      "hex": "#F59E0B",
+      "cssVariable": "--amber-500",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.1.0",
+      "deprecated": false,
+      "aliasOf": null,
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T00:00:00Z",
+      "lastModifiedBy": "system:scaffold"
+    },
+    {
+      "id": "01J8X4K9F3ZQ5R7T2N6M0V8B8J",
+      "name": "neutral.100",
+      "tier": "primitive",
+      "description": "Light surface / canvas.",
+      "hex": "#F3F4F6",
+      "cssVariable": "--neutral-100",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.1.0",
+      "deprecated": false,
+      "aliasOf": null,
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T00:00:00Z",
+      "lastModifiedBy": "system:scaffold"
+    },
+    {
+      "id": "01J8X4KZP0Q6X3R9B7T2M4V8N5",
+      "name": "brand.blue",
+      "tier": "alias",
+      "description": "Brand primary blue alias.",
+      "hex": "#2563EB",
+      "cssVariable": "--brand-blue",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.1.0",
+      "deprecated": false,
+      "aliasOf": "01J8X4K9F3ZQ5R7T2N6M0V8B1C",
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T00:00:00Z",
+      "lastModifiedBy": "system:scaffold"
+    },
+    {
+      "id": "01J8X4M1R5T8Q2W4X6Z0B3N7C9",
+      "name": "color.action.primary",
+      "tier": "semantic",
+      "description": "Primary interactive action color for buttons and links.",
+      "hex": "#2563EB",
+      "cssVariable": "--color-action-primary",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.1.0",
+      "deprecated": false,
+      "aliasOf": "01J8X4KZP0Q6X3R9B7T2M4V8N5",
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T00:00:00Z",
+      "lastModifiedBy": "system:scaffold"
+    },
+    {
+      "id": "01J8X4M1R5T8Q2W4X6Z0B3N7D0",
+      "name": "color.background.canvas",
+      "tier": "semantic",
+      "description": "Page canvas background.",
+      "hex": "#FFFFFF",
+      "cssVariable": "--color-background-canvas",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.1.0",
+      "deprecated": false,
+      "aliasOf": "01J8X4K9F3ZQ5R7T2N6M0V8B3E",
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T00:00:00Z",
+      "lastModifiedBy": "system:scaffold"
+    },
+    {
+      "id": "01J8X4M1R5T8Q2W4X6Z0B3N7D1",
+      "name": "color.background.surface",
+      "tier": "semantic",
+      "description": "Default elevated surface background.",
+      "hex": "#F3F4F6",
+      "cssVariable": "--color-background-surface",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.1.0",
+      "deprecated": false,
+      "aliasOf": "01J8X4K9F3ZQ5R7T2N6M0V8B8J",
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T00:00:00Z",
+      "lastModifiedBy": "system:scaffold"
+    },
+    {
+      "id": "01J8X4M1R5T8Q2W4X6Z0B3N7D2",
+      "name": "color.text.primary",
+      "tier": "semantic",
+      "description": "Primary body text color.",
+      "hex": "#111827",
+      "cssVariable": "--color-text-primary",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.1.0",
+      "deprecated": false,
+      "aliasOf": "01J8X4K9F3ZQ5R7T2N6M0V8B4F",
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T00:00:00Z",
+      "lastModifiedBy": "system:scaffold"
+    },
+    {
+      "id": "01J8X4M1R5T8Q2W4X6Z0B3N7D3",
+      "name": "color.text.inverse",
+      "tier": "semantic",
+      "description": "Text on primary action / dark fills.",
+      "hex": "#FFFFFF",
+      "cssVariable": "--color-text-inverse",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.1.0",
+      "deprecated": false,
+      "aliasOf": "01J8X4K9F3ZQ5R7T2N6M0V8B3E",
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T00:00:00Z",
+      "lastModifiedBy": "system:scaffold"
+    },
+    {
+      "id": "01J8X4M1R5T8Q2W4X6Z0B3N7D4",
+      "name": "color.feedback.error",
+      "tier": "semantic",
+      "description": "Error / destructive feedback color.",
+      "hex": "#DC2626",
+      "cssVariable": "--color-feedback-error",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.1.0",
+      "deprecated": false,
+      "aliasOf": "01J8X4K9F3ZQ5R7T2N6M0V8B5G",
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T00:00:00Z",
+      "lastModifiedBy": "system:scaffold"
+    },
+    {
+      "id": "01J8X4M1R5T8Q2W4X6Z0B3N7D5",
+      "name": "color.feedback.success",
+      "tier": "semantic",
+      "description": "Success feedback color.",
+      "hex": "#16A34A",
+      "cssVariable": "--color-feedback-success",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.1.0",
+      "deprecated": false,
+      "aliasOf": "01J8X4K9F3ZQ5R7T2N6M0V8B6H",
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T00:00:00Z",
+      "lastModifiedBy": "system:scaffold"
+    },
+    {
+      "id": "01J8X4M1R5T8Q2W4X6Z0B3N7D6",
+      "name": "color.feedback.warning",
+      "tier": "semantic",
+      "description": "Warning feedback color.",
+      "hex": "#F59E0B",
+      "cssVariable": "--color-feedback-warning",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.1.0",
+      "deprecated": false,
+      "aliasOf": "01J8X4K9F3ZQ5R7T2N6M0V8B7I",
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T00:00:00Z",
+      "lastModifiedBy": "system:scaffold"
+    },
+    {
+      "id": "01J8X4M1R5T8Q2W4X6Z0B3N7D7",
+      "name": "color.border.default",
+      "tier": "semantic",
+      "description": "Default border color.",
+      "hex": "#F3F4F6",
+      "cssVariable": "--color-border-default",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.1.0",
+      "deprecated": false,
+      "aliasOf": "01J8X4K9F3ZQ5R7T2N6M0V8B8J",
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T00:00:00Z",
+      "lastModifiedBy": "system:scaffold"
+    },
+    {
+      "id": "01J8X4N3W7Y0R2T5V8X1Z4B6D8",
+      "name": "color.action.primary.hover",
+      "tier": "state",
+      "description": "Hover state for primary action — aliases darker blue primitive.",
+      "hex": "#1D4ED8",
+      "cssVariable": "--color-action-primary-hover",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.1.0",
+      "deprecated": false,
+      "aliasOf": "01J8X4K9F3ZQ5R7T2N6M0V8B2D",
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T00:00:00Z",
+      "lastModifiedBy": "system:scaffold"
+    },
+    {
+      "id": "01J8X4N3W7Y0R2T5V8X1Z4B6D9",
+      "name": "color.action.primary.active",
+      "tier": "state",
+      "description": "Active/pressed state for primary action.",
+      "hex": "#1D4ED8",
+      "cssVariable": "--color-action-primary-active",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.1.0",
+      "deprecated": false,
+      "aliasOf": "01J8X4K9F3ZQ5R7T2N6M0V8B2D",
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T00:00:00Z",
+      "lastModifiedBy": "system:scaffold"
+    },
+    {
+      "id": "01J8X4N3W7Y0R2T5V8X1Z4B6E0",
+      "name": "color.action.primary.disabled",
+      "tier": "state",
+      "description": "Disabled state — uses light neutral until dedicated disabled primitive exists.",
+      "hex": "#F3F4F6",
+      "cssVariable": "--color-action-primary-disabled",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.1.0",
+      "deprecated": false,
+      "aliasOf": "01J8X4K9F3ZQ5R7T2N6M0V8B8J",
+      "figmaVariableId": null,
+      "lastModifiedAt": "2026-07-22T00:00:00Z",
+      "lastModifiedBy": "system:scaffold"
+    }
+  ]
+}

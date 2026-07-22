@@ -1,0 +1,25 @@
+/** Auto-generated — do not edit */
+export const Colors = {
+  "blue_500": "#2563EB",
+  "blue_700": "#1D4ED8",
+  "neutral_0": "#FFFFFF",
+  "neutral_900": "#111827",
+  "red_600": "#DC2626",
+  "green_600": "#16A34A",
+  "amber_500": "#F59E0B",
+  "neutral_100": "#F3F4F6",
+  "brand_blue": "#2563EB",
+  "color_action_primary": "#2563EB",
+  "color_background_canvas": "#FFFFFF",
+  "color_background_surface": "#F3F4F6",
+  "color_text_primary": "#111827",
+  "color_text_inverse": "#FFFFFF",
+  "color_feedback_error": "#DC2626",
+  "color_feedback_success": "#16A34A",
+  "color_feedback_warning": "#F59E0B",
+  "color_border_default": "#F3F4F6",
+  "color_action_primary_hover": "#1D4ED8",
+  "color_action_primary_active": "#1D4ED8",
+  "color_action_primary_disabled": "#F3F4F6",
+} as const;
+export type ColorTokenName = keyof typeof Colors;

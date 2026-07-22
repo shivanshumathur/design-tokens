@@ -1,0 +1,26 @@
+{
+  "name": "@org/design-tokens",
+  "version": "0.1.0",
+  "description": "Canonical design tokens — Color MVP (CTL architecture)",
+  "type": "module",
+  "scripts": {
+    "validate": "tsx scripts/validate-tokens.ts",
+    "contrast": "tsx scripts/contrast-check.ts",
+    "extract": "tsx scripts/figma-extract.ts",
+    "writeback": "tsx scripts/figma-writeback.ts",
+    "build": "tsx scripts/build-tokens.ts",
+    "registry": "tsx scripts/build-registry.ts"
+  },
+  "files": [
+    "generated",
+    "tokens"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "01J8X4KZP0Q6X3R9B7T2M4V8N5",
+    "type": "color",
+    "tier": "alias",
+    "name": "brand.blue",
+    "value": null,
+    "description": "Brand primary blue alias.",
+    "aliasOf": "01J8X4K9F3ZQ5R7T2N6M0V8B1C",
+    "brand": "core",
+    "themes": ["light", "dark"],
+    "deprecated": false,
+    "deprecatedInFavorOf": null,
+    "figmaVariableId": null,
+    "figmaCollectionId": null,
+    "version": "0.1.0",
+    "createdAt": "2026-07-22T00:00:00Z",
+    "createdBy": "system:scaffold",
+    "lastModifiedAt": "2026-07-22T00:00:00Z",
+    "lastModifiedBy": "system:scaffold",
+    "history": []
+  }
+]

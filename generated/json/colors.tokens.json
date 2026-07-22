@@ -1,0 +1,278 @@
+{
+  "blue": {
+    "500": {
+      "$type": "color",
+      "$value": "#2563EB",
+      "$description": "Primary brand blue, base tone.",
+      "$extensions": {
+        "canonical": {
+          "id": "01J8X4K9F3ZQ5R7T2N6M0V8B1C",
+          "tier": "primitive",
+          "figmaVariableId": null
+        }
+      }
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#1D4ED8",
+      "$description": "Primary brand blue, darker tone.",
+      "$extensions": {
+        "canonical": {
+          "id": "01J8X4K9F3ZQ5R7T2N6M0V8B2D",
+          "tier": "primitive",
+          "figmaVariableId": null
+        }
+      }
+    }
+  },
+  "neutral": {
+    "0": {
+      "$type": "color",
+      "$value": "#FFFFFF",
+      "$description": "Pure white.",
+      "$extensions": {
+        "canonical": {
+          "id": "01J8X4K9F3ZQ5R7T2N6M0V8B3E",
+          "tier": "primitive",
+          "figmaVariableId": null
+        }
+      }
+    },
+    "100": {
+      "$type": "color",
+      "$value": "#F3F4F6",
+      "$description": "Light surface / canvas.",
+      "$extensions": {
+        "canonical": {
+          "id": "01J8X4K9F3ZQ5R7T2N6M0V8B8J",
+          "tier": "primitive",
+          "figmaVariableId": null
+        }
+      }
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#111827",
+      "$description": "Near-black neutral for primary text on light surfaces.",
+      "$extensions": {
+        "canonical": {
+          "id": "01J8X4K9F3ZQ5R7T2N6M0V8B4F",
+          "tier": "primitive",
+          "figmaVariableId": null
+        }
+      }
+    }
+  },
+  "red": {
+    "600": {
+      "$type": "color",
+      "$value": "#DC2626",
+      "$description": "Error / destructive red.",
+      "$extensions": {
+        "canonical": {
+          "id": "01J8X4K9F3ZQ5R7T2N6M0V8B5G",
+          "tier": "primitive",
+          "figmaVariableId": null
+        }
+      }
+    }
+  },
+  "green": {
+    "600": {
+      "$type": "color",
+      "$value": "#16A34A",
+      "$description": "Success green.",
+      "$extensions": {
+        "canonical": {
+          "id": "01J8X4K9F3ZQ5R7T2N6M0V8B6H",
+          "tier": "primitive",
+          "figmaVariableId": null
+        }
+      }
+    }
+  },
+  "amber": {
+    "500": {
+      "$type": "color",
+      "$value": "#F59E0B",
+      "$description": "Warning amber.",
+      "$extensions": {
+        "canonical": {
+          "id": "01J8X4K9F3ZQ5R7T2N6M0V8B7I",
+          "tier": "primitive",
+          "figmaVariableId": null
+        }
+      }
+    }
+  },
+  "brand": {
+    "blue": {
+      "$type": "color",
+      "$value": "#2563EB",
+      "$description": "Brand primary blue alias.",
+      "$extensions": {
+        "canonical": {
+          "id": "01J8X4KZP0Q6X3R9B7T2M4V8N5",
+          "tier": "alias",
+          "figmaVariableId": null
+        }
+      }
+    }
+  },
+  "color": {
+    "action": {
+      "primary": {
+        "$type": "color",
+        "$value": "#2563EB",
+        "$description": "Primary interactive action color for buttons and links.",
+        "$extensions": {
+          "canonical": {
+            "id": "01J8X4M1R5T8Q2W4X6Z0B3N7C9",
+            "tier": "semantic",
+            "figmaVariableId": null
+          }
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "#1D4ED8",
+          "$description": "Hover state for primary action — aliases darker blue primitive.",
+          "$extensions": {
+            "canonical": {
+              "id": "01J8X4N3W7Y0R2T5V8X1Z4B6D8",
+              "tier": "state",
+              "figmaVariableId": null
+            }
+          }
+        },
+        "active": {
+          "$type": "color",
+          "$value": "#1D4ED8",
+          "$description": "Active/pressed state for primary action.",
+          "$extensions": {
+            "canonical": {
+              "id": "01J8X4N3W7Y0R2T5V8X1Z4B6D9",
+              "tier": "state",
+              "figmaVariableId": null
+            }
+          }
+        },
+        "disabled": {
+          "$type": "color",
+          "$value": "#F3F4F6",
+          "$description": "Disabled state — uses light neutral until dedicated disabled primitive exists.",
+          "$extensions": {
+            "canonical": {
+              "id": "01J8X4N3W7Y0R2T5V8X1Z4B6E0",
+              "tier": "state",
+              "figmaVariableId": null
+            }
+          }
+        }
+      }
+    },
+    "background": {
+      "canvas": {
+        "$type": "color",
+        "$value": "#FFFFFF",
+        "$description": "Page canvas background.",
+        "$extensions": {
+          "canonical": {
+            "id": "01J8X4M1R5T8Q2W4X6Z0B3N7D0",
+            "tier": "semantic",
+            "figmaVariableId": null
+          }
+        }
+      },
+      "surface": {
+        "$type": "color",
+        "$value": "#F3F4F6",
+        "$description": "Default elevated surface background.",
+        "$extensions": {
+          "canonical": {
+            "id": "01J8X4M1R5T8Q2W4X6Z0B3N7D1",
+            "tier": "semantic",
+            "figmaVariableId": null
+          }
+        }
+      }
+    },
+    "text": {
+      "primary": {
+        "$type": "color",
+        "$value": "#111827",
+        "$description": "Primary body text color.",
+        "$extensions": {
+          "canonical": {
+            "id": "01J8X4M1R5T8Q2W4X6Z0B3N7D2",
+            "tier": "semantic",
+            "figmaVariableId": null
+          }
+        }
+      },
+      "inverse": {
+        "$type": "color",
+        "$value": "#FFFFFF",
+        "$description": "Text on primary action / dark fills.",
+        "$extensions": {
+          "canonical": {
+            "id": "01J8X4M1R5T8Q2W4X6Z0B3N7D3",
+            "tier": "semantic",
+            "figmaVariableId": null
+          }
+        }
+      }
+    },
+    "feedback": {
+      "error": {
+        "$type": "color",
+        "$value": "#DC2626",
+        "$description": "Error / destructive feedback color.",
+        "$extensions": {
+          "canonical": {
+            "id": "01J8X4M1R5T8Q2W4X6Z0B3N7D4",
+            "tier": "semantic",
+            "figmaVariableId": null
+          }
+        }
+      },
+      "success": {
+        "$type": "color",
+        "$value": "#16A34A",
+        "$description": "Success feedback color.",
+        "$extensions": {
+          "canonical": {
+            "id": "01J8X4M1R5T8Q2W4X6Z0B3N7D5",
+            "tier": "semantic",
+            "figmaVariableId": null
+          }
+        }
+      },
+      "warning": {
+        "$type": "color",
+        "$value": "#F59E0B",
+        "$description": "Warning feedback color.",
+        "$extensions": {
+          "canonical": {
+            "id": "01J8X4M1R5T8Q2W4X6Z0B3N7D6",
+            "tier": "semantic",
+            "figmaVariableId": null
+          }
+        }
+      }
+    },
+    "border": {
+      "default": {
+        "$type": "color",
+        "$value": "#F3F4F6",
+        "$description": "Default border color.",
+        "$extensions": {
+          "canonical": {
+            "id": "01J8X4M1R5T8Q2W4X6Z0B3N7D7",
+            "tier": "semantic",
+            "figmaVariableId": null
+          }
+        }
+      }
+    }
+  }
+}
